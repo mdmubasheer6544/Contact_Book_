@@ -4,10 +4,10 @@
 npm install
 
 ## Install dependencies for BackEnd
-cd Api ---> npm install.
+cd src --> cd Api ---> npm install.
 
 ### Run the Express Backend server file
-cd Api ---> node Server.js
+cd src --> cd Api ---> node Server.js
 
 Connect to your mongodb and add info in .env
 
